@@ -14,14 +14,19 @@ Project Question: How can we use big data to inform more comprehensive localized
 Datasets: 
 
 •	Community Profile
+    
     o	Infrastructure
     o	Land use
     o	Demographics + Vulnerability
+
 •	Hazard/Environmental Data
+    
     o	Weather data
     o	Fuel Condition
     o	Topography
+
 •	Near real time data sources
+    
     o	Remote sensing
     o	Social media
     o	Incident reporting
